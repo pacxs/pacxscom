@@ -9,5 +9,5 @@ solicitud haciendo clic en enlace de té abajo:
 {verif_url} [{verif_url}] 		 
 
 {shop_name} [{shop_url}] creado por
-TwoYou [http://www.miscalcetines.com/] 
+Socks Mine, S.L. [http://pacxs.com/] 
 

@@ -42,7 +42,7 @@ body {
   border-color: #515151;
 }
 #header #contact-link a {
-  color: white;
+  color: #133452;
 }
 #header #contact-link a:hover, #header #contact-link a.active {
   background: #327082;

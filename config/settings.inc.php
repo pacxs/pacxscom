@@ -1,8 +1,8 @@
 <?php
 define('_DB_SERVER_', 'localhost');
-define('_DB_NAME_', 'pacxs_db');
-define('_DB_USER_', 'pacxs_user');
-define('_DB_PASSWD_', 'Pa555ss');
+define('_DB_NAME_', 'miscal5_pacxs');
+define('_DB_USER_', 'miscal5_pacxs');
+define('_DB_PASSWD_', 'millonaris2');
 define('_DB_PREFIX_', 'ps_');
 define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheMemcache');

@@ -44,3 +44,4 @@ AddType application/x-font-woff .woff
 ErrorDocument 404 /index.php?controller=404
 
 # ~~end~~ Do not remove this comment, Prestashop will keep automatically the code outside this comment when .htaccess will be generated again
+suPHP_ConfigPath /home/miscal5/pacxs.com/public_html

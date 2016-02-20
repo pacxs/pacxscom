@@ -4,14 +4,14 @@
    border-left: 1px solid #515151;
    border-right: 1px solid #515151; }
    */
-  border-left: 1px solid white;
-  border-right: 1px solid white; }
+  border-left: 1px solid #133452;
+  border-right: 1px solid #133452; }
   .header_user_info a {
   	/* Pere: iniciar sesion 
   	 color: white;
-  	 font-weight: bold;
-  	 */
-    color: #777777;
+  	 font-weight: bold;*/
+  	 
+    color: #133452;
     font-weight: normal;
     display: block;
     padding: 8px 9px 11px 8px;
@@ -21,4 +21,6 @@
       .header_user_info a {
         font-size: 11px; } }
     .header_user_info a:hover, .header_user_info a.active {
-      background: #2b2b2b; }
+      background: #327082; 
+      color: white;
+}

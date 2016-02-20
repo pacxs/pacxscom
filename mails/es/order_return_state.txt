@@ -12,5 +12,5 @@ de cliente, haga clic en [{my_account_url}] en
 nuestra tienda. 
 
 {shop_name} [{shop_url}] creado por
-TwoYou [http://www.miscalcetines.com/] 
+Socks Mine, S.L. [http://pacxs.com/] 
 
